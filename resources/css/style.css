@@ -1,10 +1,11 @@
-h1 {
+html {
+	background-color: black;
+}
+
+div.header h1 {
 	font-family: Verdana, sans-serif;
 	font-weight: normal;
 	color: white;
 	font-size: 50px;
 	text-align: center;
-}
-html {
-	background-color: black;
 }
