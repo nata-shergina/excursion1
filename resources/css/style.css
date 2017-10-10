@@ -4,10 +4,12 @@ html {
 
 div.header h1 {
 	font-family: Verdana, sans-serif;
-	font-weight: normal;
+	font-weight: bold;
 	color: white;
 	font-size: 50px;
 	text-align: center;
+	display: block;
+
 }
 
 a.download {
