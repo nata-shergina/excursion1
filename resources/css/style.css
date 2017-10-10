@@ -15,6 +15,12 @@ body {
 
 }
 
+h2 {
+	font-family: Verdana, sans-serif;
+	font-weight: 300;
+	font-size: 42 px;
+}
+
 a.download {
 	color: Aquamarine;
     font-size: 16px; 
